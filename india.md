@@ -9,3 +9,8 @@ Samosas – Empanadillas fritas rellenas de patata, guisantes y especias.
 Chai Masala – Té negro con especias como canela, clavo y cardamomo, mezclado con leche.
 Jaljeera – Bebida refrescante hecha con comino, menta y agua con gas.
 Thandai – Bebida dulce con leche, almendras, cardamomo y especias aromáticas.
+# consejos: Usa ghee en lugar de aceite para lograr sabores más auténticos en los platos.
+Los currys indios suelen saber mejor al día siguiente, ya que los sabores se intensifican con el tiempo.
+Acompaña los platos con naan o roti en lugar de cubiertos para una experiencia más tradicional.
+La comida india es muy especiada, pero puedes ajustar el nivel de picante según tu preferencia.
+Los platos se suelen servir en porciones pequeñas con varias opciones para compartir.
