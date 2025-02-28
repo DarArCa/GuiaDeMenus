@@ -1,1 +1,1 @@
-# Cocina Colombiana
+# La cocina colombiana es diversa y varía según la región. Se basa en ingredientes autóctonos como el maíz, la yuca, el plátano y las carnes. Es una combinación de influencias indígenas, africanas y españolas.
