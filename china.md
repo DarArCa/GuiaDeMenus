@@ -1,1 +1,2 @@
 # COMIDA CHINA
+# descripcion : La cocina china se caracteriza por su equilibrio entre sabores dulces, salados, ácidos y picantes. Utiliza ingredientes como salsa de soya, jengibre, ajo y aceite de sésamo, y se basa en métodos de cocción como el salteado en wok, la cocción al vapor y el frito. Las preparaciones varían según la región, desde los platos picantes de Sichuan hasta los sabores más suaves de Cantón.
