@@ -9,3 +9,8 @@ Pescado a la parrilla – Servido con hierbas frescas y limón.
 Ouzo – Licor anisado griego.
 Sangría – Bebida a base de vino con frutas.
 Té de menta – Común en la región del Magreb.
+# consejos: Usa aceite de oliva extra virgen en lugar de mantequilla para cocinar.
+Acompaña las comidas con pan de pita o focaccia.
+Agrega hierbas frescas como albahaca, orégano y tomillo para realzar los sabores.
+La dieta mediterránea es una de las más saludables, aprovecha sus ingredientes naturales.
+Evita los productos ultraprocesados y prioriza alimentos frescos y de temporada.
