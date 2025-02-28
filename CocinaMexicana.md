@@ -8,3 +8,7 @@ Tamales – Masa de maíz rellena con diferentes ingredientes, envuelta en hojas
 Mezcal
 Horchata
 Aguas frescas (jamaica, tamarindo, limón)
+# CONSEJOS: Usa chiles frescos para obtener el mejor sabor en las salsas.
+El maíz es la base de muchos platillos; busca tortillas de buena calidad.
+Marida los platos picantes con bebidas refrescantes.
+Experimenta con diferentes combinaciones de ingredientes para descubrir nuevos sabores.
