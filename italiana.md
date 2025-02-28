@@ -4,3 +4,7 @@ COMIDA ITALIANA
 Pasta Carbonara – Espaguetis con una salsa cremosa de huevo, queso Pecorino Romano, panceta y pimienta negra.
 Pizza Margherita – Base de masa crujiente con salsa de tomate, mozzarella y albahaca.
 Risotto ai Funghi – Arroz cremoso cocinado con champiñones y queso parmesano.
+# bebidas recomendadas: Vino tinto Chianti
+Limoncello
+Espresso italiano
+Aperol Spritz
