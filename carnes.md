@@ -9,3 +9,8 @@ Chuletas de cerdo a la mostaza – Acompañadas de puré de papas.
 Vino Malbec – Acompaña perfectamente las carnes rojas.
 Whisky ahumado – Complemento para cortes intensos.
 Jugo de manzana natural – Opción refrescante sin alcohol.
+# consejos: Sella la carne a alta temperatura para conservar los jugos.
+Usa sales gruesas y hierbas para realzar el sabor natural.
+Deja reposar la carne después de cocinarla para una mejor textura.
+La temperatura de cocción es clave, utiliza un termómetro para mejores resultados.
+Acompaña las carnes con guarniciones ligeras para equilibrar la comida.
