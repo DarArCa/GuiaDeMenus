@@ -9,3 +9,8 @@ Tofu marinado – Salteado con salsa de soya y jengibre.
 Kombucha – Bebida fermentada con probióticos.
 Batido de almendras y plátano – Alternativa energética.
 Leche de avena con canela – Opción vegetal para acompañar postres.
+# consejos:   Usa especias y hierbas para dar más sabor a los platos.
+Asegúrate de consumir proteínas vegetales como lentejas, garbanzos y tofu.
+Evita productos ultraprocesados, opta por ingredientes naturales.
+Experimenta con diferentes tipos de cocción para realzar los sabores.
+La cocina vegetariana no es aburrida, juega con colores y texturas en cada plato.
