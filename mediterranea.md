@@ -5,3 +5,7 @@ Moussaka – Pastel de berenjena con carne picada y bechamel.
 Hummus – Crema de garbanzos con tahini, ajo y aceite de oliva.
 Tabulé – Ensalada de sémola con perejil, tomate y limón.
 Pescado a la parrilla – Servido con hierbas frescas y limón.
+# bebidas: Vino blanco seco – Perfecto para mariscos y pescados.
+Ouzo – Licor anisado griego.
+Sangría – Bebida a base de vino con frutas.
+Té de menta – Común en la región del Magreb.
