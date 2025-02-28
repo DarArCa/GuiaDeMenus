@@ -8,3 +8,7 @@ Arepas – Tortillas de maíz que se pueden rellenar con queso, carne o huevo.
 Canelazo
 Jugo de lulo
 Chocolate caliente con queso
+# Consejos: Usa ingredientes frescos y autóctonos para mayor autenticidad.
+Las arepas varían según la región; prueba diferentes tipos.
+Acompaña los platos con ají casero para potenciar los sabores.
+La comida colombiana es ideal para compartir en familia.
