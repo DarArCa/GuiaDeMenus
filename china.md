@@ -5,3 +5,7 @@ Pato Pekín – Pato asado con piel crujiente, servido con crepes finas, salsa h
 Chow Mein – Fideos fritos con carne, vegetales y una mezcla de salsas chinas.
 Mapo Tofu – Tofu en salsa picante con carne de cerdo y granos de pimienta de Sichuan.
 Arroz Frito Yangzhou – Arroz frito con camarones, huevo, jamón y vegetales.
+# bebidas: Té Oolong – Té semifermentado con un sabor entre el té verde y el negro.
+Baijiu – Licor destilado muy fuerte, común en celebraciones.
+Suannai – Yogur bebible chino, ligeramente agrio y refrescante.
+Wang Lao Ji – Bebida de hierbas tradicional china, conocida por sus propiedades refrescantes.
