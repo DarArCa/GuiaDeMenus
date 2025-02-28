@@ -5,3 +5,7 @@ Crème brûlée – Crema de vainilla horneada con una capa de azúcar carameliz
 Cheesecake de frutos rojos – Tarta de queso con base de galleta y cobertura de frutos rojos.
 Brownie de chocolate – Pastel denso de chocolate con nueces y textura húmeda.
 Pastel de zanahoria – Bizcocho especiado con zanahoria, cubierto con crema de queso.
+# bebidas: Café espresso – Ideal para acompañar postres cremosos y de chocolate.
+Vino dulce Moscatel – Perfecto para tartas y postres frutales.
+Chocolate caliente – Acompañamiento clásico para postres horneados.
+Batido de vainilla y almendras – Alternativa refrescante para postres ligeros.
