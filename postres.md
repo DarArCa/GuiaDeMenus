@@ -9,3 +9,8 @@ Pastel de zanahoria – Bizcocho especiado con zanahoria, cubierto con crema de 
 Vino dulce Moscatel – Perfecto para tartas y postres frutales.
 Chocolate caliente – Acompañamiento clásico para postres horneados.
 Batido de vainilla y almendras – Alternativa refrescante para postres ligeros.
+# consejos: Usa ingredientes de alta calidad, como chocolate puro y vainilla natural, para un mejor sabor.
+Deja reposar los postres fríos en la nevera antes de servir para mejorar la textura.
+Para caramelizar azúcar en el crème brûlée, usa un soplete de cocina para un acabado crujiente.
+Si haces brownies, no los hornees demasiado para conservar su textura húmeda.
+Los postres pueden decorarse con frutas frescas, hierbas como menta o un toque de azúcar glas para una mejor presentación.
