@@ -4,3 +4,7 @@
 Chiles en Nogada – Chiles poblanos rellenos de carne y cubiertos con salsa de nuez.
 Enchiladas Verdes – Tortillas rellenas de pollo bañadas en salsa verde de tomatillo.
 Tamales – Masa de maíz rellena con diferentes ingredientes, envuelta en hojas de maíz y cocida al vapor.
+# BEBIDAS: Tequila
+Mezcal
+Horchata
+Aguas frescas (jamaica, tamarindo, limón)
