@@ -4,3 +4,7 @@
 Ajiaco Santafereño – Sopa espesa de pollo, papa criolla, mazorca y guascas.
 Sancocho – Caldo con carne, yuca, plátano y papa, ideal para reuniones familiares.
 Arepas – Tortillas de maíz que se pueden rellenar con queso, carne o huevo.
+# Aguardiente
+Canelazo
+Jugo de lulo
+Chocolate caliente con queso
