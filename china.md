@@ -9,3 +9,8 @@ Arroz Frito Yangzhou – Arroz frito con camarones, huevo, jamón y vegetales.
 Baijiu – Licor destilado muy fuerte, común en celebraciones.
 Suannai – Yogur bebible chino, ligeramente agrio y refrescante.
 Wang Lao Ji – Bebida de hierbas tradicional china, conocida por sus propiedades refrescantes.
+# consejos: Usa un wok caliente para cocinar salteados con mejor textura y sabor.
+La salsa de soya se usa en pequeñas cantidades, ya que puede dominar los sabores del plato.
+Acompaña las comidas con arroz blanco para equilibrar sabores fuertes o picantes.
+La comida china es ideal para compartir, pide varios platos para probar diferentes sabores.
+Para una experiencia más auténtica, aprende a usar los palillos correctamente. 
