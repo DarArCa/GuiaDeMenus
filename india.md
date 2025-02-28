@@ -5,3 +5,7 @@ Dal Tadka – Lentejas amarillas cocidas con especias y un sofrito de ajo, cebol
 Biryani – Arroz especiado con carne (pollo, cordero o res) o vegetales, acompañado de yogur y hierbas frescas.
 Paneer Butter Masala – Cubos de queso paneer en una salsa cremosa a base de tomate, mantequilla y especias.
 Samosas – Empanadillas fritas rellenas de patata, guisantes y especias.
+# bebidas: Lassi – Batido de yogur, azúcar y frutas como mango.
+Chai Masala – Té negro con especias como canela, clavo y cardamomo, mezclado con leche.
+Jaljeera – Bebida refrescante hecha con comino, menta y agua con gas.
+Thandai – Bebida dulce con leche, almendras, cardamomo y especias aromáticas.
