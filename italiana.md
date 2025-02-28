@@ -8,3 +8,7 @@ Risotto ai Funghi – Arroz cremoso cocinado con champiñones y queso parmesano.
 Limoncello
 Espresso italiano
 Aperol Spritz
+# CONSEJOS Y RECOMENDACIONES: Usa ingredientes frescos y de buena calidad para obtener el mejor sabor.
+La pasta debe cocinarse al dente para una mejor textura.
+Los quesos como el Parmesano y el Pecorino realzan el sabor de los platos.
+Marida los platillos con vinos adecuados para resaltar sus sabores.
